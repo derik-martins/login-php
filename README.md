@@ -30,8 +30,8 @@ Um sistema de autenticação simples e seguro em PHP que permite login tradicion
 1. Clone este repositório
 
 ```
-git clone https://github.com/seu-usuario/sistema-login-google.git
-cd sistema-login-google
+git clone https://github.com/derik-martins/login-php.git
+cd login-php
 ```
 
 2. Instale as dependências usando Composer
