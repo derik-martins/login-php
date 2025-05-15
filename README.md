@@ -11,7 +11,7 @@ Um sistema de autenticação simples e seguro em PHP que permite login tradicion
 ## 📸 Screenshots
 
 ![Tela de Login](screenshots/screen-01.png)
-![Tela de Registro](screenshots/screen-02.png)
+![Tela de Registro](screenshots/screen-2.png)
 
 ## 🛠️ Tecnologias
 
