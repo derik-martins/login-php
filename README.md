@@ -8,6 +8,11 @@ Um sistema de autenticação simples e seguro em PHP que permite login tradicion
 - Login com Google OAuth 2.0
 - Registro de novos usuários
 
+## 📸 Screenshots
+
+![Tela de Login](screenshots/screen-01.png)
+![Tela de Registro](screenshots/screen-02.png)
+
 ## 🛠️ Tecnologias
 
 - PHP
