@@ -7,8 +7,6 @@ Um sistema de autenticação simples e seguro em PHP que permite login tradicion
 - Login tradicional (email e senha)
 - Login com Google OAuth 2.0
 - Registro de novos usuários
-- Painel de controle personalizado
-- Gerenciamento de sessões
 
 ## 🛠️ Tecnologias
 
@@ -43,7 +41,7 @@ composer install
 3. Configure o banco de dados
 
 - Crie um banco de dados chamado `login`
-- Importe o arquivo `db_update.sql` para criar a estrutura necessária
+- Importe o arquivo `db.sql` para criar a estrutura necessária
 
 4. Configure suas credenciais Google
 
@@ -89,13 +87,3 @@ O sistema é facilmente personalizável:
 - Proteção contra injeção SQL usando PDO
 - Validação de dados de entrada
 - Gerenciamento seguro de sessões
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT - veja o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
-
-## 📞 Contato
-
-Seu Nome - [@seu-twitter](https://twitter.com/seu-twitter) - email@exemplo.com
-
-Link do projeto: [https://github.com/seu-usuario/sistema-login-google](https://github.com/seu-usuario/sistema-login-google)
